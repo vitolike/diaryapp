@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; text = "DIA "; ObjectID = "9HB-J1-4X8"; */
+"9HB-J1-4X8.text" = "DIA ";
+
+/* Class = "UITextView"; text = "HOJE, SOU GRATO POR:"; ObjectID = "H88-UP-ssg"; */
+"H88-UP-ssg.text" = "HOJE, SOU GRATO POR:";
+
+/* Class = "UINavigationItem"; title = "Adicionar"; ObjectID = "fBc-qN-BPx"; */
+"fBc-qN-BPx.title" = "Adicionar";
+
+/* Class = "UINavigationItem"; title = "Meu diário"; ObjectID = "vNZ-2h-ZqL"; */
+"vNZ-2h-ZqL.title" = "Meu diário";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "xV5-SO-8Jv"; */
+"xV5-SO-8Jv.title" = "Item";
